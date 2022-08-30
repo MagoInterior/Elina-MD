@@ -716,7 +716,7 @@ feed.items.forEach(item => {
     let checkon = process.env.CHATBOT
     try {
  //   let checkquoted =  !isGroup || citel.quoted.key.fromMe
-      if (budy && !icmd && !isGroup && checkon === 'on') {
+      if (budy && m.sender !==Void.user.id && !icmd && !isGroup && checkon === 'on') {
         let zx = querie.length;
         if (zx < 25 ) {
           var diffuser = citel.sender.split("@")[0];
