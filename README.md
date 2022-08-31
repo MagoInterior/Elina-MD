@@ -4,7 +4,7 @@
     <h1 align="center">Secktor🖤</h1>
   </a>
 </p>
-
+ 
 <p align="center">
 
   <a aria-label="Join our chats" href="https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl" target="_blank">
@@ -91,7 +91,7 @@
                 - A Coffe
                 
                 
-3- `Go on` [Session ID ](https://secktorbot.herokuapp.com/session/) or simply join Support offtopic group and use command `qr`.
+3- `Go on` [Session ID ](https://secktorbot.herokuapp.com/session) or simply join Support offtopic group and use command `qr`.
 
 3- `Click on Deploy Purple button down below from Forked Repo.`
 
